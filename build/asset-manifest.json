@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d528ae3.css",
+    "main.js": "/static/js/main.3a5c0458.js",
+    "static/media/ai.png": "/static/media/ai.b39f6903afaa14cab73b.png",
+    "static/media/Feature.png": "/static/media/Feature.d7ba802b95a7eae0cbc1.png",
+    "static/media/Article4.png": "/static/media/Article4.628de21e7362225dd180.png",
+    "static/media/Article1.png": "/static/media/Article1.0cd564888a42185e72d1.png",
+    "static/media/Article2.png": "/static/media/Article2.9985ba3c4132e04951e0.png",
+    "static/media/Article3.png": "/static/media/Article3.83cc937338a47c66406d.png",
+    "static/media/Article5.png": "/static/media/Article5.d18219ecfaee4860bf4e.png",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/dropbox.png": "/static/media/dropbox.82f375cac5decf9cb393.png",
+    "static/media/atlassian.png": "/static/media/atlassian.799a761889177e604be8.png",
+    "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/GPT-3.svg": "/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/index.html",
+    "main.5d528ae3.css.map": "/static/css/main.5d528ae3.css.map",
+    "main.3a5c0458.js.map": "/static/js/main.3a5c0458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d528ae3.css",
+    "static/js/main.3a5c0458.js"
+  ]
+}
